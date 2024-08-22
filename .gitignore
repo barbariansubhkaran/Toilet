@@ -6,7 +6,6 @@ Anim
 *.pvsm
 *.mp4
 *.mov
-*.sh
 *.jpg
 polyMesh
 processor*
@@ -14,6 +13,5 @@ log
 toilet-iso
 toiletv2*
 toiletv3-*
-*.stl
-*.emesh
+*.eMesh
 extendedFeatureEdgeMesh
